@@ -1,0 +1,6 @@
+{"id":"1","state":"START","type":"APPLICATION","host":"abc","timestamp":1491377495212}
+{"id":"1","state":"END","type":"APPLICATION","host":"abc","timestamp":1491377495217}
+{"id":"2","state":"START","timestamp":1491377495212}
+{"id":"2","state":"END","timestamp":1491377495212}
+{"id":"3","state":"START","timestamp":1491377495212}
+{"id":"3","state":"END","timestamp":1491377495212}
